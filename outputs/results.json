@@ -1,0 +1,68 @@
+[
+  {
+    "file_name": "NDA_Contract.pdf",
+    "entities": {
+      "parties": [
+        "Orion Data Systems Pvt. Ltd.",
+        "InnovEdge Analytics"
+      ],
+      "dates": [
+        "April 5, 2025",
+        "Valid for 2 years from the Effective Date"
+      ],
+      "payments": [
+        "No payment obligations"
+      ],
+      "obligations": [
+        "Parties agree to keep shared information confidential",
+        "Parties agree not to disclose shared information to third parties"
+      ]
+    },
+    "clauses": [
+      {
+        "clause_text": "Mutual Non-Disclosure Agreement (NDA)\nThis NDA is entered into on April 5, 2025, between Orion Data Systems Pvt. Ltd. and InnovEdge Analytics for the protection of confidential business information.",
+        "type": "General",
+        "risk": "Low",
+        "note": "This is the introductory statement, clearly identifying the parties and purpose of the agreement."
+      },
+      {
+        "clause_text": "1. Definition of Confidential Information\nIncludes all proprietary data, trade secrets, and strategic information.",
+        "type": "Confidentiality",
+        "risk": "High",
+        "note": "The definition is overly broad and generic, lacking specific examples, methods for identification (e.g., marking), and criteria for 'strategic information.' This ambiguity could lead to disputes regarding what information is protected."
+      },
+      {
+        "clause_text": "2. Obligations\nParties agree to keep shared information confidential and not disclose it to third parties.",
+        "type": "Confidentiality",
+        "risk": "High",
+        "note": "This clause is significantly underdeveloped, failing to include essential protections such as the permitted uses of confidential information, the required standard of care, or obligations for the return or destruction of information upon termination."
+      },
+      {
+        "clause_text": "3. Exclusions\nInformation already public or known before disclosure is not considered confidential.",
+        "type": "Confidentiality",
+        "risk": "Medium",
+        "note": "This clause is incomplete as it omits several standard exclusions, such as information independently developed by the receiving party or information compelled by legal or regulatory processes."
+      },
+      {
+        "clause_text": "4. Term\nValid for 2 years from the Effective Date.",
+        "type": "General",
+        "risk": "Medium",
+        "note": "The clause only specifies the term of the agreement, but it does not clarify if the confidentiality obligations survive beyond this 2-year period, which is a common omission for NDAs and could leave information unprotected after the term."
+      },
+      {
+        "clause_text": "5. Governing Law\nSubject to Indian law and Hyderabad jurisdiction.",
+        "type": "Governing Law",
+        "risk": "Low",
+        "note": "This clause clearly specifies the governing law and jurisdiction."
+      },
+      {
+        "clause_text": "Signed by:\nPriya Menon, Legal Head, Orion Data Systems Pvt. Ltd.\nKarthik Rao, Founder, InnovEdge Analytics",
+        "type": "General",
+        "risk": "Low",
+        "note": "This section confirms the signatories and their roles, indicating proper execution of the agreement."
+      }
+    ],
+    "overall_risk": "High",
+    "summary": "This Mutual Non-Disclosure Agreement (NDA) was entered into on **April 5, 2025**, between **Orion Data Systems Pvt. Ltd.** and **InnovEdge Analytics**. Its primary purpose is the mutual protection of confidential business information, including proprietary data, trade secrets, and strategic information shared between the parties.\n\nBoth parties are obligated to keep this information confidential and refrain from disclosing it to third parties. Information already public or known prior to disclosure is explicitly excluded from this definition. The NDA has a **term of two years** from the effective date, implying automatic termination thereafter. **Payment obligations are not specified** within the contract.\n\nThe agreement is governed by **Indian law**, specifically under the jurisdiction of Hyderabad. A **non-standard or risky omission** is the absence of clauses detailing specific remedies for breach, or requirements for the return or destruction of confidential information upon the agreement's termination. Furthermore, there are no provisions for early termination before the two-year term concludes."
+  }
+]
